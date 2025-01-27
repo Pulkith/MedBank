@@ -1,5 +1,7 @@
 # MedBank
 
+(lol sorry quick note, my resume I uploaded says I'm a 2026 grad, since that was from last semester and I forgot to change it. I'm going to be a 2027 grad since I'm submatting in math). 
+
 MedBank is a tool that allows anyone to get an initial cursory self-diagnosis, and find the hospitals nearest
 to them with the cheapest copays (most likely) based on these symptoms. It also allows you to
 upload medical documents and bills and helps keep track of all this and finance your medical expenses.
