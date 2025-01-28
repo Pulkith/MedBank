@@ -1,6 +1,6 @@
 # MedBank
 
-(lol sorry quick note, my resume I uploaded says I'm a 2026 grad, since that was from last semester when I was planning on graduating early and I forgot to change it. I'm going to be a 2027 grad since I'm submatting in math). 
+(lol sorry quick note, my resume I uploaded says I'm a 2026 grad, since that was from last semester when I was planning on graduating early and I forgot to change it. I'm going to be a 2027 grad since I'm submatting in math and graduating on the regular timescale). 
 
 MedBank is a tool that allows anyone to get an initial cursory self-diagnosis, and find the hospitals nearest
 to them with the cheapest copays (most likely) based on these symptoms. It also allows you to
